@@ -8,4 +8,5 @@
 <div align='justify'>
     <p>Projeto básico de desenvolvimento de um sistema de assistente virtual para realizar tarefas no próprio PC. Esta assistente - A Edite - realiza tarefas como perquisas no Google e no Youtube, além de abrir aplicativos como o MS Word e MS Excel - o que pode futuramente ser expandido ao app que forem da necessidade do usuário.</p>
     <p>Ela fica à disposição até ouvir as palavras chaves referentes às pesquisas ou ao encerramento do programa.</p>
+    <p>O app foi desenvolvido totalmente em Python complementado pelas bibliotecas <a href='https://pypi.org/project/PyAudio/'>PyAudio</a>, <a href='https://pypi.org/project/SpeechRecognition/'>Speech-Recognition</a> e <a href='https://pypi.org/project/playsound/'>Playsound</a>.</p>
     
